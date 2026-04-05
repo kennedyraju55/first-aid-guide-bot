@@ -1,0 +1,14 @@
+README.md
+setup.py
+src/first_aid/__init__.py
+src/first_aid/cli.py
+src/first_aid/core.py
+src/first_aid/web_ui.py
+src/first_aid_guide_bot.egg-info/PKG-INFO
+src/first_aid_guide_bot.egg-info/SOURCES.txt
+src/first_aid_guide_bot.egg-info/dependency_links.txt
+src/first_aid_guide_bot.egg-info/entry_points.txt
+src/first_aid_guide_bot.egg-info/requires.txt
+src/first_aid_guide_bot.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_core.py
