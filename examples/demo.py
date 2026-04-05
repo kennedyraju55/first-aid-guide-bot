@@ -28,15 +28,15 @@ def main():
     # Return a rich style string based on severity level.
     print("📝 Example: get_severity_style()")
     result = get_severity_style(
-        severity="sample data"
+        severity="HIGH"
     )
     print(f"   Result: {result}")
     print()
     # Evaluate an emergency situation using the decision tree.
     print("📝 Example: evaluate_emergency()")
     result = evaluate_emergency(
-        conscious=5,
-        breathing=5
+        conscious=True,
+        breathing=True
     )
     print(f"   Result: {result}")
     print()
